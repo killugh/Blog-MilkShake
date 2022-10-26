@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+ul#criador li {
+    background: url("../_imagens/Captura\ de\ tela\ 2022-09-02\ 104358.png") no-repeat;
+    background-position: 50% 50%;
+    margin-top: -10px;
+    padding-top: 150px;
+    padding-right: 50%;
+    padding-left: 50%;
+    background-size: 150px;
+}
+
+footer {
+    position: relative;
+}
+
+ul#criador li span {
+    opacity: 0;
+}
+
+ul#criador {
+    list-style: none;
+}
+
+a#criador {
+    color: darkcyan;
+}

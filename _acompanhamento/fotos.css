@@ -1,0 +1,587 @@
+@charset "UTF-8";
+
+ul#album {
+    width: 700px;
+    margin: 0px auto;
+    padding: 50px;
+    overflow: hidden;
+    list-style: none;    
+}
+
+ul#album li {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 5px solid #ffffff;
+    background-color: #ffffff;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, .4);
+    transition: all .4s ease-in;
+}
+
+ul#album li:hover {
+    transform: scale(1.5);
+}
+
+ul#album li span {
+    opacity: 0;
+}
+
+ul#album  li#foto1 {
+    background : url(../_imagens/foto01.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 300px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto1:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto2 {
+    background : url(../_imagens/foto02.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 396px 418px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto2:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto3 {
+    background : url(../_imagens/foto03.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto3:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto4 {
+    background : url(../_imagens/foto04.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto4:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto5 {
+    background : url(../_imagens/foto05.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto5:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto6 {
+    background : url(../_imagens/foto06.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto6:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto7 {
+    background : url(../_imagens/foto07.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto7:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto8 {
+    background : url(../_imagens/foto08.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto8:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto9 {
+    background : url(../_imagens/foto09.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto9:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto10 {
+    background : url(../_imagens/foto10.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto10:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto11 {
+    background : url(../_imagens/foto11.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto11:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto12 {
+    background : url(../_imagens/foto12.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto12:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto13 {
+    background : url(../_imagens/foto13.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto13:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto14 {
+    background : url(../_imagens/foto14.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto14:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto15 {
+    background : url(../_imagens/foto15.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto15:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto16 {
+    background : url(../_imagens/foto16.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto16:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto17 {
+    background : url(../_imagens/foto17.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto17:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto18 {
+    background : url(../_imagens/foto18.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto18:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto19 {
+    background : url(../_imagens/foto19.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto19:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto20 {
+    background : url(../_imagens/foto20.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto20:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto21 {
+    background : url(../_imagens/foto21.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto21:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto22 {
+    background : url(../_imagens/foto22.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto22:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto23 {
+    background : url(../_imagens/foto23.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto23:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto24 {
+    background : url(../_imagens/foto24.jpeg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto24:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+/* Aula 2 */
+
+ul#album li#foto2-1 {
+    background : url(../_imagens/foto2-1.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto2-1:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+/* Aula 5 */
+
+ul#album li#foto5-1 {
+    background : url(../_imagens/foto5-1.jpeg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto5-1:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album li#foto5-2 {
+    background : url(../_imagens/foto5-2.jpeg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto5-2:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album li#foto5-3 {
+    background : url(../_imagens/foto5-3.jpeg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto5-3:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album li#foto5-4 {
+    background : url(../_imagens/foto5-4.jpeg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto5-4:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album li#foto5-5 {
+    background : url(../_imagens/foto5-5.jpeg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto5-5:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album li#foto5-6 {
+    background : url(../_imagens/foto5-6.jpeg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto5-6:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album li#foto5-7 {
+    background : url(../_imagens/foto5-7.jpeg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto5-7:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album li#foto5-8 {
+    background : url(../_imagens/foto5-8.jpeg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto5-8:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album li#foto5-9 {
+    background : url(../_imagens/foto5-9.jpeg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto5-9:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+/* AULA 06 */
+
+ul#album li#foto6-1 {
+    background : url(../_imagens/foto6-1.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto6-1:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto6-2 {
+    background : url(../_imagens/foto6-2.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 396px 418px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto6-2:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto6-3 {
+    background : url(../_imagens/foto6-3.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto6-3:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto6-4 {
+    background : url(../_imagens/foto6-4.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto6-4:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto6-5 {
+    background : url(../_imagens/foto6-5.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto6-5:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto6-6 {
+    background : url(../_imagens/foto6-6.jpg) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto6-6:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto6-7 {
+    background : url(../_imagens/foto6-7.png) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto6-7:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto6-8 {
+    background : url(../_imagens/foto6-8.png) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto6-8:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto6-9 {
+    background : url(../_imagens/foto6-9.png) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto6-9:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto6-10 {
+    background : url(../_imagens/foto6-10.png) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto6-10:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto6-11 {
+    background : url(../_imagens/foto6-11.png) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto6-11:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album  li#foto6-12 {
+    background : url(../_imagens/foto6-12.png) no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album li#foto6-12:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
