@@ -179,7 +179,7 @@ ul#objetivo {
 /* foto inicial */
 
 ul#MilkShake li {
-    background: url("../_imagens/fotoMilkShake.png") no-repeat;
+    background: url("../imagens/fotoMilkShake.png") no-repeat;
     background-position: 50% 50%;
     background-size: 556px 574px;
     padding: 300px;
