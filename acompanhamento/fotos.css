@@ -28,7 +28,7 @@ ul#album li span {
 }
 
 ul#album  li#foto1 {
-    background : url(../_imagens/foto01.jpg) no-repeat;
+    background : url(../imagens/foto01.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 300px;
     background-color: #ffffff;
@@ -40,7 +40,7 @@ ul#album li#foto1:hover {
 }
 
 ul#album  li#foto2 {
-    background : url(../_imagens/foto02.jpg) no-repeat;
+    background : url(../imagens/foto02.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 396px 418px;
     background-color: #ffffff;
@@ -52,7 +52,7 @@ ul#album li#foto2:hover {
 }
 
 ul#album  li#foto3 {
-    background : url(../_imagens/foto03.jpg) no-repeat;
+    background : url(../imagens/foto03.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -64,7 +64,7 @@ ul#album li#foto3:hover {
 }
 
 ul#album  li#foto4 {
-    background : url(../_imagens/foto04.jpg) no-repeat;
+    background : url(../imagens/foto04.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -76,7 +76,7 @@ ul#album li#foto4:hover {
 }
 
 ul#album  li#foto5 {
-    background : url(../_imagens/foto05.jpg) no-repeat;
+    background : url(../imagens/foto05.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -88,7 +88,7 @@ ul#album li#foto5:hover {
 }
 
 ul#album  li#foto6 {
-    background : url(../_imagens/foto06.jpg) no-repeat;
+    background : url(../imagens/foto06.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -100,7 +100,7 @@ ul#album li#foto6:hover {
 }
 
 ul#album  li#foto7 {
-    background : url(../_imagens/foto07.jpg) no-repeat;
+    background : url(../imagens/foto07.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -112,7 +112,7 @@ ul#album li#foto7:hover {
 }
 
 ul#album  li#foto8 {
-    background : url(../_imagens/foto08.jpg) no-repeat;
+    background : url(../imagens/foto08.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -124,7 +124,7 @@ ul#album li#foto8:hover {
 }
 
 ul#album  li#foto9 {
-    background : url(../_imagens/foto09.jpg) no-repeat;
+    background : url(../imagens/foto09.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -136,7 +136,7 @@ ul#album li#foto9:hover {
 }
 
 ul#album  li#foto10 {
-    background : url(../_imagens/foto10.jpg) no-repeat;
+    background : url(../imagens/foto10.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -148,7 +148,7 @@ ul#album li#foto10:hover {
 }
 
 ul#album  li#foto11 {
-    background : url(../_imagens/foto11.jpg) no-repeat;
+    background : url(../imagens/foto11.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -160,7 +160,7 @@ ul#album li#foto11:hover {
 }
 
 ul#album  li#foto12 {
-    background : url(../_imagens/foto12.jpg) no-repeat;
+    background : url(../imagens/foto12.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -172,7 +172,7 @@ ul#album li#foto12:hover {
 }
 
 ul#album  li#foto13 {
-    background : url(../_imagens/foto13.jpg) no-repeat;
+    background : url(../imagens/foto13.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -184,7 +184,7 @@ ul#album li#foto13:hover {
 }
 
 ul#album  li#foto14 {
-    background : url(../_imagens/foto14.jpg) no-repeat;
+    background : url(../imagens/foto14.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -196,7 +196,7 @@ ul#album li#foto14:hover {
 }
 
 ul#album  li#foto15 {
-    background : url(../_imagens/foto15.jpg) no-repeat;
+    background : url(../imagens/foto15.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -208,7 +208,7 @@ ul#album li#foto15:hover {
 }
 
 ul#album  li#foto16 {
-    background : url(../_imagens/foto16.jpg) no-repeat;
+    background : url(../imagens/foto16.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -220,7 +220,7 @@ ul#album li#foto16:hover {
 }
 
 ul#album  li#foto17 {
-    background : url(../_imagens/foto17.jpg) no-repeat;
+    background : url(../imagens/foto17.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -232,7 +232,7 @@ ul#album li#foto17:hover {
 }
 
 ul#album  li#foto18 {
-    background : url(../_imagens/foto18.jpg) no-repeat;
+    background : url(../imagens/foto18.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -244,7 +244,7 @@ ul#album li#foto18:hover {
 }
 
 ul#album  li#foto19 {
-    background : url(../_imagens/foto19.jpg) no-repeat;
+    background : url(../imagens/foto19.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -256,7 +256,7 @@ ul#album li#foto19:hover {
 }
 
 ul#album  li#foto20 {
-    background : url(../_imagens/foto20.jpg) no-repeat;
+    background : url(../imagens/foto20.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -268,7 +268,7 @@ ul#album li#foto20:hover {
 }
 
 ul#album  li#foto21 {
-    background : url(../_imagens/foto21.jpg) no-repeat;
+    background : url(../imagens/foto21.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -280,7 +280,7 @@ ul#album li#foto21:hover {
 }
 
 ul#album  li#foto22 {
-    background : url(../_imagens/foto22.jpg) no-repeat;
+    background : url(../imagens/foto22.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -292,7 +292,7 @@ ul#album li#foto22:hover {
 }
 
 ul#album  li#foto23 {
-    background : url(../_imagens/foto23.jpg) no-repeat;
+    background : url(../imagens/foto23.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -304,7 +304,7 @@ ul#album li#foto23:hover {
 }
 
 ul#album  li#foto24 {
-    background : url(../_imagens/foto24.jpeg) no-repeat;
+    background : url(../imagens/foto24.jpeg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -318,7 +318,7 @@ ul#album li#foto24:hover {
 /* Aula 2 */
 
 ul#album li#foto2-1 {
-    background : url(../_imagens/foto2-1.jpg) no-repeat;
+    background : url(../imagens/foto2-1.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -332,7 +332,7 @@ ul#album li#foto2-1:hover {
 /* Aula 5 */
 
 ul#album li#foto5-1 {
-    background : url(../_imagens/foto5-1.jpeg) no-repeat;
+    background : url(../imagens/foto5-1.jpeg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -344,7 +344,7 @@ ul#album li#foto5-1:hover {
 }
 
 ul#album li#foto5-2 {
-    background : url(../_imagens/foto5-2.jpeg) no-repeat;
+    background : url(../imagens/foto5-2.jpeg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -356,7 +356,7 @@ ul#album li#foto5-2:hover {
 }
 
 ul#album li#foto5-3 {
-    background : url(../_imagens/foto5-3.jpeg) no-repeat;
+    background : url(../imagens/foto5-3.jpeg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -368,7 +368,7 @@ ul#album li#foto5-3:hover {
 }
 
 ul#album li#foto5-4 {
-    background : url(../_imagens/foto5-4.jpeg) no-repeat;
+    background : url(../imagens/foto5-4.jpeg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -380,7 +380,7 @@ ul#album li#foto5-4:hover {
 }
 
 ul#album li#foto5-5 {
-    background : url(../_imagens/foto5-5.jpeg) no-repeat;
+    background : url(../imagens/foto5-5.jpeg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -392,7 +392,7 @@ ul#album li#foto5-5:hover {
 }
 
 ul#album li#foto5-6 {
-    background : url(../_imagens/foto5-6.jpeg) no-repeat;
+    background : url(../imagens/foto5-6.jpeg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -404,7 +404,7 @@ ul#album li#foto5-6:hover {
 }
 
 ul#album li#foto5-7 {
-    background : url(../_imagens/foto5-7.jpeg) no-repeat;
+    background : url(../imagens/foto5-7.jpeg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -416,7 +416,7 @@ ul#album li#foto5-7:hover {
 }
 
 ul#album li#foto5-8 {
-    background : url(../_imagens/foto5-8.jpeg) no-repeat;
+    background : url(../imagens/foto5-8.jpeg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -428,7 +428,7 @@ ul#album li#foto5-8:hover {
 }
 
 ul#album li#foto5-9 {
-    background : url(../_imagens/foto5-9.jpeg) no-repeat;
+    background : url(../imagens/foto5-9.jpeg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -442,7 +442,7 @@ ul#album li#foto5-9:hover {
 /* AULA 06 */
 
 ul#album li#foto6-1 {
-    background : url(../_imagens/foto6-1.jpg) no-repeat;
+    background : url(../imagens/foto6-1.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -454,7 +454,7 @@ ul#album li#foto6-1:hover {
 }
 
 ul#album  li#foto6-2 {
-    background : url(../_imagens/foto6-2.jpg) no-repeat;
+    background : url(../imagens/foto6-2.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 396px 418px;
     background-color: #ffffff;
@@ -466,7 +466,7 @@ ul#album li#foto6-2:hover {
 }
 
 ul#album  li#foto6-3 {
-    background : url(../_imagens/foto6-3.jpg) no-repeat;
+    background : url(../imagens/foto6-3.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -478,7 +478,7 @@ ul#album li#foto6-3:hover {
 }
 
 ul#album  li#foto6-4 {
-    background : url(../_imagens/foto6-4.jpg) no-repeat;
+    background : url(../imagens/foto6-4.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -490,7 +490,7 @@ ul#album li#foto6-4:hover {
 }
 
 ul#album  li#foto6-5 {
-    background : url(../_imagens/foto6-5.jpg) no-repeat;
+    background : url(../imagens/foto6-5.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -502,7 +502,7 @@ ul#album li#foto6-5:hover {
 }
 
 ul#album  li#foto6-6 {
-    background : url(../_imagens/foto6-6.jpg) no-repeat;
+    background : url(../imagens/foto6-6.jpg) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -514,7 +514,7 @@ ul#album li#foto6-6:hover {
 }
 
 ul#album  li#foto6-7 {
-    background : url(../_imagens/foto6-7.png) no-repeat;
+    background : url(../imagens/foto6-7.png) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -526,7 +526,7 @@ ul#album li#foto6-7:hover {
 }
 
 ul#album  li#foto6-8 {
-    background : url(../_imagens/foto6-8.png) no-repeat;
+    background : url(../imagens/foto6-8.png) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -538,7 +538,7 @@ ul#album li#foto6-8:hover {
 }
 
 ul#album  li#foto6-9 {
-    background : url(../_imagens/foto6-9.png) no-repeat;
+    background : url(../imagens/foto6-9.png) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -550,7 +550,7 @@ ul#album li#foto6-9:hover {
 }
 
 ul#album  li#foto6-10 {
-    background : url(../_imagens/foto6-10.png) no-repeat;
+    background : url(../imagens/foto6-10.png) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -562,7 +562,7 @@ ul#album li#foto6-10:hover {
 }
 
 ul#album  li#foto6-11 {
-    background : url(../_imagens/foto6-11.png) no-repeat;
+    background : url(../imagens/foto6-11.png) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -574,7 +574,7 @@ ul#album li#foto6-11:hover {
 }
 
 ul#album  li#foto6-12 {
-    background : url(../_imagens/foto6-12.png) no-repeat;
+    background : url(../imagens/foto6-12.png) no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
